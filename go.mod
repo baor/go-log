@@ -1,3 +1,3 @@
-module github.com/baor/go-log/v1
+module github.com/baor/go-log
 
 go 1.13
